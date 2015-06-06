@@ -1,6 +1,9 @@
 # Markdown
 markdown:            redcarpet
 
+# Google analytics
+google_analytics:
+
 #
 # Permalinks
 #
