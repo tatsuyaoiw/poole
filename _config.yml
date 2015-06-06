@@ -1,5 +1,7 @@
 # Markdown
 markdown:            redcarpet
+redcarpet:
+  extensions:        ["tables"]
 
 # Google analytics
 google_analytics:
