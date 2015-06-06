@@ -1,5 +1,5 @@
 # Markdown
-markdown: redcarpet
+markdown:            redcarpet
 
 #
 # Permalinks
@@ -20,7 +20,7 @@ baseurl:             ""
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir:          _sass
-  style:            :compressed
+  style:             :compressed
 
 # About/contact
 author:
